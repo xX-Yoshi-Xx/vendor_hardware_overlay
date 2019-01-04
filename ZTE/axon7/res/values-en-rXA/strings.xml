@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_appsAuthorizedForSharedAccounts">[;çöḿ.åñðŕöîð.Véñðîñĝ;çöḿ.åñðŕöîð.šéţţîñĝš; one two three four five]</string>
+    <string name="config_persistentDataPackageName">[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš one two three]</string>
+    <string name="config_defaultDndAccessPackages">[çöḿ.ĝööĝļé.åñðŕöîð.ĜööĝļéÇåḿéŕå one two three four]</string>
+    <string name="config_defaultAssistantComponentName">[çöḿ.ĝööĝļé.åñðŕöîð.ĝööĝļéQûîçķšéåŕçĥɓöх/çöḿ.ĝööĝļé.åñðŕöîð.Vöîçéîñţéŕåçţîöñ.ĜšåνöîçéÎñţéŕåçţîöñŠéŕVîçé one two three four five six seven eight nine ten eleven]</string>
+    <string name="config_ims_package">[öŕĝ.çöðéåûŕöŕå.îḿš one two three]</string>
+    <string name="config_dozeComponent">[çöḿ.åñðŕöîð.šýšţéḿûî/çöḿ.åñðŕöîð.šýšţéḿûî.ðöžé.ÐöžéŠéŕVîçé one two three four five six seven]</string>
+</resources>

@@ -59,6 +59,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
 	treble-overlay-xiaomi-redmis2 \
+	treble-overlay-zte-axon7 \
 
 PRODUCT_PACKAGES += \
 	hw-fpnav-daemon \
